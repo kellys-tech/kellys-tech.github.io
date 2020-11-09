@@ -1,6 +1,6 @@
 # Responsive Portfolio
 
-*This is my portfolio website. It is created to showcase my work. Initially it will contain an About Me page, a Portfolio page, and a Contact page. Currently the content contains placeholder imgages and texxt but will be update to include actual photos and a paragraph or two about myself*
+*This is my portfolio website. It is created to showcase my work. Initially it will contain an About Me page, a Portfolio page, and a Contact page. This is used to showcase my abilities as a developer and also includes a  link to view my resume.
 
 ## Webpage created using:
 * HTML - to create the content of the homepage. 
@@ -17,13 +17,13 @@
 * image added to background to replace default
 
 ### About Me
-* contains a place holder image and lorem ipsum text to be replaced in the near future
+* contains a paragraph about me
 * content is reponsive to various screen sizes
 * content sits inside a container within a grid
 * colors set for background and text (in css file)
 
 ### Portfolio
-* contains place holder image to be replaced in the near future
+* contains screen shots for 2 projects with links to the live site and my github repository
 * content is reponsive to various screen sizes
 * images sit inside a container within a grid
 * colors set for background and text (in css file)
@@ -42,19 +42,12 @@
 * colors set for background and text (in css file)
 
 ## The challenges I met were:
-1. The most difficult challenge I had was making the pages responsive to the various screen sizes
-    a. this was solved by adding a viewport to each html file and using bootstraps grid sytem with rows and columns
-2. Customizing the navbar to use colors other than the default
-    a. this was done by using the navbar-custom class in the css and defining the background and text colors
-3. Setting a background image to cover the entire background between the navbar and footer
-    a. this was done in the css by linking the image and setting the properties such as position and size
-
-
 
 ## The website is being hosted on github pages.
+* https://kellys-tech.github.io/index.html
 
 ## Website Images:
 
-![About Me](assets/AboutMe.png)
-![Portfolio](assets/Portfolio.png)
-![Contact](assets/Contact.png)
+![About Me](Images/AboutMe.png)
+![Portfolio](Images/Contact.png)
+![Contact](Images/Portfolio.png)
